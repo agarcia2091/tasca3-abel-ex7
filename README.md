@@ -1,3 +1,3 @@
 # tasca3-abel-ex7
 Creem un repositori per fer la Tasca 3 exercici 7
-Part d'Edgar Linares
+Part d'Edgar Linares 2
